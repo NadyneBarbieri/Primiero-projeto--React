@@ -1,0 +1,18 @@
+/*usado para importar uma biblioteca do google funts seguido pela url da fonte*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+
+*{/* nome da classe chamado por um ponto*/
+  font-family: 'Montserrat'; /* nome da fonte que foi importada para ser usada como atributo da classe*/
+  padding: 0; /*Coloca espaçamento entre todo o itens dentro do container */ 
+  margin: 0; /*Coloca espaçamento entre o container e a tela toda por fora*/
+}
+
+.container{/* nome da classe chamado por um ponto*/
+ overflow: hidden;
+ padding: 0%;
+  background-color: #efefef;/* coloca a cor no funto do item onde estachamndo a classe  */
+}
+.a{
+ 
+}
